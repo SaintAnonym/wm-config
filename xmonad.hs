@@ -6,6 +6,9 @@ import System.Exit
 import XMonad.Util.SpawnOnce
 import XMonad.Util.Run
 import XMonad.Hooks.ManageDocks
+--import XMonad.Layout.BinarySpacePartition
+--import XMonad.Layout.Dwindle
+--import Xmonad.Layout.LayoutCombinators
 
 import qualified XMonad.StackSet as W
 import qualified Data.Map        as M
